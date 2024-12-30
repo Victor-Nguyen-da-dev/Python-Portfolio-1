@@ -1,6 +1,6 @@
 # Python for Data Analytics Practices & Projects
 
-This Repo is a collection of my python learning and projects based on the guidance of Luke Barousse & his team [Python for Data Analytics](https://lukebarousse.com/python)
+This Repo is a portfolio of my python learning and projects based on the guidance and database of Luke Barousse & his team [Python for Data Analytics](https://lukebarousse.com/python)
 
 ## Table of Contents
 
