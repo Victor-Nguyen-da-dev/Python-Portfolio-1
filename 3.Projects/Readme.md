@@ -197,7 +197,7 @@ plt.show()
 ```
 ### Results
 
-![Most Optimal Skill for Data Analyst in ASEAN countries](<Images/Most Optimal Skill for Data Analyst in ASEAN countries.png>)
+![Most Optimal Skill for Data Analyst in ASEAN countries](<Images/Most Optimal Skill for Data Analyst in ASEAN countries.png>)  
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in ASEAN countries.*
 
 ### Insights
@@ -242,18 +242,18 @@ plt.show()
 
 # What I Learned
 
-Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization. Here are a few specific things I learned:
+Throughout this project, my understanding of the data analysis job market deepened and it enhanced my technical skills in Python, especially in the aspect of data manipulation and visualization. Here are a few specific things I learned:
 
 - **Advanced Python Usage**: Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
-- **Data Cleaning Importance**: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
-- **Strategic Skill Analysis**: The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
+- **Data Cleaning Importance**: I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the most suitable data necessary to achieve proper insights can be extracted.
+- **Strategic Skill Analysis**: The project visualize the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
 
 
 # Insights
 
 This project provided several general insights into the data job market for analysts:
 
-- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like Spark can lead to higher salaries.
+- **Skill Demand and Salary Correlation**: There is a clear correlation between the demand for specific skills and the salaries these skills command. Advanced and specialized skills like Spark can lead to higher salaries, but there is still a consistent need for core specialized skills such as Python and Tableau.
 - **Market Trends**: There are changing trends in skill demand, highlighting the dynamic nature of the data job market. Keeping up with these trends is essential for career growth in data analytics.
 - **Economic Value of Skills**: Understanding which skills are both in-demand and well-compensated can guide data analysts in prioritizing learning to maximize their economic returns.
 
@@ -263,10 +263,9 @@ This project provided several general insights into the data job market for anal
 This project was not without its challenges, but it provided good learning opportunities:
 
 - **Data Inconsistencies**: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
-- **Complex Data Visualization**: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
+- **Complex Data Visualization**: Designing effective visual representations of complex datasets while ensuring clarity was challenging but critical for conveying insights clearly and compellingly.
 - **Balancing Breadth and Depth**: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
-
 
 # Conclusion
 
-This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field. The insights I got enhance my understanding and provide actionable guidance for anyone looking to advance their career in data analytics. As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics. This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
+This exploration into the data analyst job market was one of my initial forays into a deeper data analysis and has been incredibly informative, highlighting the critical skills and trends that shape this ever-evolving field. The insights I got enhance my understanding and provided me with clear options and ways to advance my career in data analytics. As the job market continues to move forward, it is essential to continue analyzing to stay ahead in the field. With this as the foundation, I wish to continue learning and evolve along side the data field itself, and hopefully gain a better understanding of our world.
